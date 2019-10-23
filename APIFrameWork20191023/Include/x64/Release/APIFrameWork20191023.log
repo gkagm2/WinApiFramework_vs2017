@@ -1,0 +1,8 @@
+﻿  Core.cpp
+n:\project\directxpractice\win32projectpractice\apiframework20191023\include\core.cpp(81): warning C4838: 'unsigned int'에서 'LONG'(으)로의 변환에는 축소 변환이 필요합니다.
+  코드를 생성하고 있습니다.
+  3 of 11 functions (27.3%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  코드를 생성했습니다.
+  APIFrameWork20191023.vcxproj -> N:\Project\DirectXPractice\Win32ProjectPractice\APIFrameWork20191023\Include\../Bin/APIFrameWork2019102364.exe
